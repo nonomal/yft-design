@@ -12,6 +12,7 @@
 | -------- | -------------------------------------------------- | ------------ |
 | **Demo** | [https://demo.yft.design](https://demo.yft.design) | 免费体验版本 |
 | **Pro**  | [https://yft.design](https://yft.design)           | 专业完整版本 |
+| **性能**  | [https://yft.design/zh/editor?mode=stress&count=5000&seed=42&partRender=1&canvasPerf=1](https://yft.design/zh/editor?mode=stress&count=5000&seed=42&partRender=1&canvasPerf=1)           | 性能体验版本 |
 
 ### 💬 联系方式
 
